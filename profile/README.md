@@ -9,7 +9,7 @@ Supported platforms include **Steam** and **Epic Games Store**.
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Farming-Simulator-25-DLC-Unlocker-Tool/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
